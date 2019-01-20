@@ -1,5 +1,5 @@
 # xdata
-library for photon matter interactions
+a library for photon matter interactions
 
 All information about this library and its use can be found in
 xdata/doc/manual.pdf.
